@@ -1,0 +1,11 @@
+smooth scrolling
+
+attach loco scroll css get this from locomotive css
+attach locomotive scroll min js 
+some code from loco github for js 
+
+
+attach gsap 
+
+
+
